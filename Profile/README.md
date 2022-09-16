@@ -5,5 +5,5 @@
 </div>
 <h2>Steps to get started</h2>
 <ul>
-    <li>Join the EddieHub GitHub Org by raising an <a href="https://github.com/EddieHubCommunity/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization](https://github.com/TestOrgAvk/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</li>
+    <li>Join the EddieHub GitHub Org by raising an <a href="https://github.com/TestOrgAvk/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</li>
 </ul>
